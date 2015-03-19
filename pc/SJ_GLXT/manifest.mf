@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: sj.main.GLXT_Frame1
+Class-Path: lib\jxl.jar lib\mysql-connector.jar
+
+
